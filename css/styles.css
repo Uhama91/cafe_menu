@@ -21,8 +21,7 @@ p {
   margin-right: auto;
   padding: 20px;
   border-radius: 20px;
-  opacity: 0.87;
-  box-shadow: 5px -5px 5px 10px black;
+  box-shadow: 5px -5px 5px 2px hsla(0, 56%, 25%, 0.893);
 }
 
 .item p {
